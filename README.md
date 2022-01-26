@@ -16,8 +16,8 @@ Challenge is to build out QR code component and get it looking as close to the d
 - Uses of semantic tags
 ### Links
 
-- Solution URL: (https://github.com/Dileep001/QR-code-component)
-- Live Site URL: (https://dileep001.github.io/QR-code-component/)
+- Solution URL: https://github.com/Dileep001/QR-code-component
+- Live Site URL: https://dileep001.github.io/QR-code-component/
 
 
 ## Author
